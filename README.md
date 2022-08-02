@@ -1,6 +1,6 @@
-# Mapty
+# mapty
 
-Mapty is an application that allows users to log information about their workouts – locations, dates and parameters. Two types of workouts can be added: running and cycling.
+mapty is an application that allows users to log information about their workouts – locations, dates and parameters. Two types of workouts can be added: running and cycling.
 
 Live demo: https://mapty-monika-gawryluk.netlify.app
 
